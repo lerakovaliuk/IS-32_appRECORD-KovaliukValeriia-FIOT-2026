@@ -14,4 +14,4 @@ title: "Про шаблон"
 
 Зображення клади у `static/assets/labs/<slug>/...` і вставляй так:
 
-![Скрін](/assets/home/screenshot1.png)
+![Скрін]()
